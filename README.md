@@ -16,7 +16,7 @@ or in class settings.
   (image representation](https://classic.csunplugged.org/image-representation/)
   of CS unplug (see conclusion below).
 
-## Introduction phase
+### Introduction phase
 
 Participants are grouped by small groups (typically 3 to 5 people). 
 
@@ -24,7 +24,7 @@ In each group one participant (called the narrator) is given the part
 of the model sheet that has a big A on it while the others (the
 drawers) get a part of the blank sheet and a pencil.
 
-## First active phase: Drawings the A sheet
+### First active phase: Drawings the A sheet
 
 - Setting: small groups (3 to 5)
 - Role of the participants: describe and draw flags
@@ -50,7 +50,7 @@ drawing ressemble to the models, and this is exactly where we want to
 go. It is a good idea to end this phase before the arguments get too
 loud :)
 
-## First wrap-up
+### First wrap-up
 
 - Duration: about 5mn
 
@@ -61,7 +61,7 @@ gibberish!"), the model sheet of vocabulary is given to the groups. It
 contains indications on how to precisely describe the flags. Then,
 every groups go back to the activity, with this new help.
 
-## Second active phase: Drawings with a method
+### Second active phase: Drawings with a method
 
 - Setting: small groups (same as before)
 - Role of the participants: describe and draw flags with this new vocabulary
@@ -76,7 +76,7 @@ difficulty. The twist is that the provided vocabulary is not
 sufficient to describe all flags of the sheet C, forcing the groups to
 come up with their own vocabulary extensions.
 
-## Activity wrap-up
+### Activity wrap-up
 
 - Duration: 5mn
 
@@ -97,7 +97,7 @@ We organize the discussion using the four axes Language,
 Information/Data, Algorithm and Machine that is are common in the
 French literature of CSE, but other referential could be used.
 
-## Language (\*\*: very relevant)
+### Language (\*\*: very relevant)
 
 This activity was invented to highlight the concept of computer
 Language. The goal is here to communicate effectively the exact
@@ -151,7 +151,7 @@ computers. You could decide to react randomly to ambiguosity, but it
 would be little desirable if the programs responsible for the
 deployment of car airbags would behave randomly.
 
-## Information and Data (\*: relevant)
+### Information and Data (\*: relevant)
 
 This activity can be used to discuss how an image could be represented
 in memory (related to *Data*). It is easier if the class played the CS
@@ -198,13 +198,13 @@ precise answer is far beyond the scope, but you can get a first
 approximate answer on your computer: just zip that file, and see how
 big the resulting archive is.
 
-## Algorithm (.: not relevant)
+### Algorithm (.: not relevant)
 
 There is no easy link between this activity and the concept of
 Algorithm. Simply see the discussion in the Language section on the
 difference between algorithms that are not necessarily formally set,
 and programs, that must be unanbiguous to be usable by a computer.
 
-## Machine (.: not relevant)
+### Machine (.: not relevant)
 
 No visible link.
