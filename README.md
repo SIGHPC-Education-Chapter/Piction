@@ -46,7 +46,7 @@ Another participant is chosen as narrator, get the A sheet with the
 models, picks another flag and describe it to the group. 
 
 If everything goes well, the groups will have difficulties getting the
-drawing ressemble to the models, and this is exactly where we want to
+drawing resemble to the models, and this is exactly where we want to
 go. It is a good idea to end this phase before the arguments get too
 loud :)
 
@@ -117,7 +117,7 @@ objects that the language can describe. In the activity, the sheet B
 provides patterns that are easy to describe with the language of the
 vocabulary sheet, but the sheet C proposes patterns that show the
 limits of this language. We can thus measure the expressivity of the
-language of blazon at number of reasons he can describe.
+language by the number of flags that can be described.
 
 In general, a language can not describe everything. For example, a
 language describing line segments will not allow not to describe a
@@ -131,7 +131,7 @@ meaning associated with the signs): The language is ambiguous if
 several meanings can be associated to the same description. For
 example, saying "cut the figure in two parts" is ambiguous if we do
 not specify whether to do it vertically or horizontally, or if it is
-not clear whether the parties should be same size or not.
+not clear whether the parts should be same size or not.
 
 A language that leaves room for ambiguities (like English) is more
 suited to describe feelings or make poetry but it is not suitable for
@@ -147,7 +147,7 @@ english) and a program (the formal description using a pre-defined
 precise language). The concepts of expressiveness and lack of
 ambiguity are naturally essential in the development of a programming
 language. Ambiguisty is particularly difficult to overcome for
-computers. You could decide to react randomly to ambiguosity, but it
+computers. You could decide to react randomly to ambiguity, but it
 would be little desirable if the programs responsible for the
 deployment of car airbags would behave randomly.
 
@@ -192,7 +192,7 @@ according to the length of the description: the longer the
 description, the more complex the flag must be. This is however
 disputable, because some of the flags on the sheet C could have been
 placed on sheet B with a slightly different language. This leads to a
-very profund question: given a flag what is the absolute minimal
+very profound question: given a flag what is the absolute minimal
 amount of signs that you must use to represent it unambiguously? A
 precise answer is far beyond the scope, but you can get a first
 approximate answer on your computer: just zip that file, and see how
