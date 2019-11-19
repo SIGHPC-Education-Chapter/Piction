@@ -24,7 +24,7 @@ In each group one participant (called the narrator) is given the part
 of the model sheet that has a big A on it while the others (the
 drawers) get a part of the blank sheet and a pencil.
 
-## First active phase: Drawings the A sheet
+## First active phase: Drawings the A sheet
 
 - Setting: small groups (3 to 5)
 - Role of the participants: describe and draw flags
@@ -50,7 +50,7 @@ drawing ressemble to the models, and this is exactly where we want to
 go. It is a good idea to end this phase before the arguments get too
 loud :)
 
-# Common phase
+## First wrap-up
 
 - Duration: about 5mn
 
@@ -198,7 +198,7 @@ precise answer is far beyond the scope, but you can get a first
 approximate answer on your computer: just zip that file, and see how
 big the resulting archive is.
 
-## Algorithm (.: not relevant)
+## Algorithm (.: not relevant)
 
 There is no easy link between this activity and the concept of
 Algorithm. Simply see the discussion in the Language section on the
