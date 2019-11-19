@@ -1,6 +1,6 @@
 # Piction
 
-This is an (unplugged activity)[https://csunplugged.org/] mixing
+This is an [unplugged activity](https://csunplugged.org/) mixing
 pictures and diction. This game can be played either at science forums
 or in class settings. 
 
@@ -9,11 +9,11 @@ or in class settings.
 - Material: 
   - Pencils (one per participant)
   - Two printouts:
-    - a (model)[models.svg] sheet per group, cut in 4 parts along the lines;
+    - a [model](models.svg) sheet per group, cut in 4 parts along the lines;
     - a few (blank models)[blanks.svg] sheets, cut in 9 parts along the lines.
       You can use free paper or slates instead of blank sheets if you wish.
 - Activity integration: can be played alone, or along (before or after) the
-  (image representation)[https://classic.csunplugged.org/image-representation/]
+  (image representation](https://classic.csunplugged.org/image-representation/)
   of CS unplug (see conclusion below).
 
 ## Introduction phase
@@ -84,7 +84,7 @@ The animator collects the participants' feelings about how it went
 with the new vocabulary. A discussion may occur on the limits
 experienced on the third sheet, and how each group overcomed them.
 
-# Link to the computer science
+# That's Computer Science!
 
 - Duration: 5mn
 
