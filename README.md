@@ -1,7 +1,7 @@
 # Piction
 
-This is an [unplugged activity](https://csunplugged.org/) mixing
-pictures and diction. This game can be played either at science forums
+This is an [unplugged activity](https://csunplugged.org/) about
+pictures and languages. This game can be played either at science forums
 or in class settings. 
 
 - Age range: tested with 9 years-old pupils and with 15 years-oldstudents.
