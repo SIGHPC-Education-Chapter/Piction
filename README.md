@@ -76,7 +76,7 @@ difficulty. The twist is that the provided vocabulary is not
 sufficient to describe all flags of the sheet C, forcing the groups to
 come up with their own vocabulary extensions.
 
-### Activity wrap-up
+### Final wrap-up
 
 - Duration: 5mn
 
@@ -84,14 +84,14 @@ The animator collects the participants' feelings about how it went
 with the new vocabulary. A discussion may occur on the limits
 experienced on the third sheet, and how each group overcomed them.
 
-# That's Computer Science!
-
-- Duration: 5mn
-
 No such activity shall finish without a discussion with the class
 about the connexion to the CS field. The animator may first ask the
 class about their feelings on this connexion, and discuss rapidely the
-collected answers. There is several links to CS. 
+collected answers. There is several links to CS, detailed below.
+
+# That's Computer Science!
+
+- Duration: 5mn
 
 We organize the discussion using the four axes Language,
 Information/Data, Algorithm and Machine that is are common in the
