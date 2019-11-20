@@ -13,7 +13,7 @@ or in class settings.
     - a few (blank models)[blanks.svg] sheets, cut in 9 parts along the lines.
       You can use free paper or slates instead of blank sheets if you wish.
 - Activity integration: can be played alone, or along (before or after) the
-  (image representation](https://classic.csunplugged.org/image-representation/)
+  [image representation](https://classic.csunplugged.org/image-representation/)
   of CS unplug (see conclusion below).
 
 ### Introduction phase
